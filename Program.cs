@@ -99,7 +99,6 @@ else
     Console.WriteLine(yenihesap);
 
     Console.ReadKey();
-/*
  
 
             
