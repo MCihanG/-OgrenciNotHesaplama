@@ -1,1 +1,1 @@
-# -renciNotHesaplama
+# -ÖğrenciNotHesaplama
