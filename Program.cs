@@ -1,16 +1,3 @@
-﻿/*
-const double kdv = 0.18;
-double urunfiyatı, kdvdahilfiyat;
-Console.WriteLine("urun fiyatı giriniz");
-
-urunfiyatı = Convert.ToDouble(Console.ReadLine());
-kdvdahilfiyat = urunfiyatı * kdv;
-double toplamfiyat;
-toplamfiyat = urunfiyatı + kdvdahilfiyat;
-Console.WriteLine("ürünün kdv dahil fiyatı:" +toplamfiyat);
-Console.ReadKey();
-
-/*
 Console.WriteLine("*******ÖĞRENCİ NOT HESAPLAMA *******");
 
 
